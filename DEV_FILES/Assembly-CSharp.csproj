@@ -87,6 +87,7 @@
      <Compile Include="Assets\Easy Weapons\Scripts\Projectile.cs" />
      <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\TelemetryChartToolbar.cs" />
      <Compile Include="Assets\_Scripts\Projectile_1.cs" />
+     <Compile Include="Assets\_Scripts\MainMenu.cs" />
      <Compile Include="Assets\Vehicle Physics Pro\Scenes\UI\Scripts\Dashboard.cs" />
      <Compile Include="Assets\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_RandomDirectionTranslate.cs" />
      <Compile Include="Assets\_Scripts\Ball.cs" />
